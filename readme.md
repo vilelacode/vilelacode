@@ -1,3 +1,3 @@
-<img src="pc.gif" width = "300px" align = "right">
+<img src="pc.gif" align = "right">
 
 #Seja bem vindo, este é meu Github! 💻
