@@ -7,7 +7,7 @@ I am a web systems developer working with Kotlin and Java at IBM Brazil.
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vileladev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vileladev/" height="30" width="40" /></a>
 </p>
----
+<br>
 <p align="left">Most used techs:</p>
 <div align="left">
   <a href= "https://www.oracle.com/br/java/">
