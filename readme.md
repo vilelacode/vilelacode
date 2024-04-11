@@ -1,4 +1,4 @@
-# Seja bem vindo, este é meu Github! 💻
+# Seja bem vindo! 💻
 <img src="coding.gif" align = "right" style="width: 50%">
 
 Sou desenvolvedor de sistemas web atuando com Kotlin e Java na IBM do Brasil.
