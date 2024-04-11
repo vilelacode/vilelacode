@@ -7,11 +7,12 @@ I am a web systems developer working with Kotlin and Java at IBM Brazil.
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vileladev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vileladev/" height="30" width="40" /></a>
 </p>
+---
 <p align="left">Most used techs:</p>
 <div align="left">
   <a href= "https://www.oracle.com/br/java/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
-  <a href= "https://spring.io/projects/spring-boot"
+  <a href= "https://spring.io/projects/spring-boot">
   <img height="35" alt="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></a>&nbsp;
   <a href= "https://angular.io/">
 <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/></a>&nbsp;
