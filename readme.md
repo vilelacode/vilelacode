@@ -26,6 +26,6 @@ Sou desenvolvedor de sistemas web atuando com Kotlin e Java na IBM do Brasil.
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vileladev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilelaf&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=vileladev&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilelaf&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
