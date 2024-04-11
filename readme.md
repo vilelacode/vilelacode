@@ -13,7 +13,7 @@ Sou desenvolvedor de sistemas web atuando com Kotlin e Java na IBM do Brasil.
   <a href= "https://www.mysql.com/">
 <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   </a>
-  <a href= "https://aws.amazon.com/pt/"
+  <a href= "https://aws.amazon.com/pt/">
 <img src= "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   </a>
   <a href= "https://angular.io/">
