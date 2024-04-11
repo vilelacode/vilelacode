@@ -1,13 +1,13 @@
-# Seja bem vindo! Eu sou Fábio Vilela e este é meu Github!💻
+# Hi everyone, this is my Github! 💻
 <img src="coding.gif" align = "right" style="width: 50%">
 
-Sou desenvolvedor de sistemas web atuando com Kotlin e Java na IBM do Brasil.
+I am a web systems developer working with Kotlin and Java at IBM Brazil.
 
-<h4 align="left">Me encontre no:</h3>
+<h5 align="left">Find me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vileladev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vileladev/" height="30" width="40" /></a>
 </p>
----
+<p align="left">Most used techs:</p>
 <div align="left">
   <a href= "https://www.oracle.com/br/java/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
