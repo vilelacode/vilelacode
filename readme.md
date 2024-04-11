@@ -1,7 +1,7 @@
 # Hi everyone, this is my Github! 💻
 <img src="coding.gif" align = "right" style="width: 50%">
 
-I am a web systems developer working with Kotlin and Java at IBM Brazil.
+I am a Kotlin and Java developer working at IBM Brazil.
 
 <h5 align="left">Find me on:</h3>
 <p align="left">
