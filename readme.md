@@ -32,6 +32,7 @@ I am a Kotlin and Java developer working at IBM Brazil.
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vilelaf&layout=compact&theme=tokyonight&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
-
-[![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=vilelaf&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div  align="center">
+  <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilelacode&langs_count=6&theme=omni&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vilelacode&show_icons=true&theme=omni&layout=true&count_private=true"/>
+</div>
